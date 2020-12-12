@@ -1,2 +1,2 @@
-# russelbradley.github.io
-Personal Website (Temporary)
+# Resume
+Personal Website Portfolio &amp; Resume
