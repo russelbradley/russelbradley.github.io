@@ -1120,7 +1120,7 @@ header .logo a {
 	color: transparent;
 	width: 220px;
 	height: 66px;
-	background: url("../images/RB3DP_navbar.jpg") no-repeat center;
+	background: url("../images/general/RB3DP_navbar.jpg") no-repeat center;
 
 	background-size: 220px 66px;
 }
@@ -1296,7 +1296,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #000000 url(../images/intro_background.jpg) no-repeat center bottom;
+	background: #000000 url(../images/general/intro_background.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1883,6 +1883,15 @@ header .logo a {
  * 14. Extracurricular Activities
  */
 #extracurricular {
+	padding-top: 12rem;
+	padding-bottom: 12rem;
+}
+
+/**
+ * 14. Conferences
+ */
+ #conferences {
+	background: #FFFFFF;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
